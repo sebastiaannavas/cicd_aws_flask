@@ -10,7 +10,7 @@
 
 <!-- DESCRIPTION -->
 
-Continuous Integration and Continuous Deployment for Python Flask server on Amazon Web Services EC2 instance :snake: :cloud:
+Continuous Integration and Continuous Delivery for Python Flask server on Amazon Web Services EC2 instance :snake: :cloud:
 
 <!-- SECTIONS -->
 
